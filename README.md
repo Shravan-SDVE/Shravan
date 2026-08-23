@@ -12,19 +12,8 @@
 </p>
 
 ## 🚀 About Me 
-I'm a Senior Power BI developer With 9+ years in IT and 7+ years specializing in Power BI and Business Intelligence,
-I design enterprise analytics solutions supporting over 2,500 users across multiple organizations.
+I'm a Senior Business Intelligence Engineer With 9+ years in IT and 7+ years specializing in Power BI and Business Intelligence,
 I'm passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
-
-I specialize in:
-
-- Enterprise Power BI Dashboards
-- Azure DevOps Analytics
-- ServiceNow Reporting
-- Azure Synapse
-- SQL Optimization
-- Materialized Views
-- Agile Scrum Leadership
 
 When I'm not working with data, I enjoy Playing Cricket, Reading Books, Astrology, Understanding Cosmos. I love the "aha!" moment when data reveals something new and useful.
 
