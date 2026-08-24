@@ -17,6 +17,19 @@ I'm passionate about helping businesses make sense of their data. I enjoy transf
 
 When I'm not working with data, I enjoy Playing Cricket, Reading Books, Astrology, Understanding Cosmos. I love the "aha!" moment when data reveals something new and useful.
 
+#### 🛠️ Tech Stack & Skills
+* *Business Intelligence & Visualization:* Power BI, DAX, Power Query, Tabular Models
+* *Data Engineering & Querying:* SQL, Databricks, Spark SQL, Python, Azure Synapse
+* *Cloud & DevOps Integration:* Azure Cloud, Azure DevOps (CI/CD), ServiceNow, Incorta
+* *AI & Automation Tools:* M365 Copilot, GitHub Copilot, SSMS, Bruno, Postman
+
+#### ⚡ Core Experience & Achievements
+* *Enterprise Reporting:* End-to-end design and delivery of operational and executive dashboards across diverse business domains.
+* *CI/CD & DevOps Metrics:* Built specialized analytics pipelines tracking code commits, PRs, security vulnerabilities (SonarQube/Checkmarx), and deployment statuses.
+* *Adoption & Performance Tracking:* Tracked organizational AI & DevOps tool adoption (Azure DevOps, Copilot ecosystem) to measure ROI and usage metrics.
+* *Infrastructure & Automation:* Modeled ServiceNow incident/change management workflows and data center decommissioning metrics across global regions.
+* *Leadership & Strategy:* Agile Scrum Master leading development teams, driving requirement sign-offs, workspace architecture, and governance practices.
+
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
       
