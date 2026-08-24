@@ -19,9 +19,9 @@ When I'm not working with data, I enjoy Playing Cricket, Reading Books, Astrolog
 
 #### 🛠️ Tech Stack & Skills
 * *Business Intelligence & Visualization:* Power BI, DAX, Power Query, Tabular Models
-* *Data Engineering & Querying:* SQL, Databricks, Spark SQL, Python, Azure Synapse
-* *Cloud & DevOps Integration:* Azure Cloud, Azure DevOps (CI/CD), ServiceNow, Incorta
-* *AI & Automation Tools:* M365 Copilot, GitHub Copilot, SSMS, Bruno, Postman
+* *Data Engineering & Querying:* SQL, Spark SQL, Azure Synapse
+* *Cloud & DevOps Integration:* Azure Cloud, Azure DevOps (CI/CD), ServiceNow, Incorta,SSMS
+* *AI & Automation Tools:* M365 Copilot, GitHub Copilot
 
 #### ⚡ Core Experience & Achievements
 * *Enterprise Reporting:* End-to-end design and delivery of operational and executive dashboards across diverse business domains.
