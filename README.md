@@ -45,7 +45,7 @@ When I'm not working with data, I enjoy Playing Cricket, Reading Books, Astrolog
 - Pyspark
 - Microsoft Fabric
 
-## 🛠️ Technical Skillset
+<!-- ## 🛠️ Technical Skillset -->
 
 <!-- This section uses Shields.io badges. You can customize them or create your own!-->
 
