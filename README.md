@@ -53,6 +53,6 @@ When I'm not working with data, I enjoy Playing Cricket, Reading Books, Astrolog
 <!-- <p> -->
 <!-- 💡 Go to Shields.io to create your own badges -->
 <!--  <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge"> -->
-  <img src="https://img.shields.io/badge/Power%20BI-Expert-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge"> -->
+<!--   <img src="https://img.shields.io/badge/Power%20BI-Expert-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge"> -->
 <!-- </p> -->
 
